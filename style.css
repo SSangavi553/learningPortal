@@ -1,0 +1,90 @@
+.img-bg {
+    height: 400px !important;
+    width: 400px !important;
+    object-fit: cover; /* Ensures the image covers the area */
+}
+
+
+.secondpart
+{
+    background-color: #100c2b ;
+    background-size: cover;
+    height: 50%;
+}
+.button button 
+{
+    color: white;
+    background-color: transparent;
+    border-width: 0px;
+}
+.heading 
+{
+    color: white;
+}
+
+
+
+.colorchnage
+{
+    background-color: brown !important;
+    color: white !important;
+}
+
+
+.imagedown
+{
+    height: 400px;
+    width: 400px;
+}
+.paragh
+{
+    color: grey;
+    font-family: "roboto";
+    margin-bottom: 30px;
+}
+
+.card
+{
+    border-radius: 20px;
+}
+
+
+.thirdpart
+{
+    background-color: #100c2b;
+    background-size: cover;
+    
+}
+.thirdimg
+{
+    height: 300px;
+    width: 400px;
+}
+
+.four
+{
+    background-color: #100c2b;
+    background-size: cover;
+    height: 100%;
+    color: white;
+    margin-bottom: 20px;
+}
+.five
+{
+    border-radius: 100px;
+    height: 200px;
+    width: 100px;
+    padding: 10px;
+
+}
+
+
+
+.listing
+{
+    list-style-type: none;
+}
+.last
+{
+    background-color: #100c2b;
+}
